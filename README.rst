@@ -1,4 +1,6 @@
-[![Documentation Status](https://readthedocs.org/projects/chatoliverjio-docs/badge/?version=latest)](https://chatoliverjio-docs.readthedocs.io/en/latest/?badge=latest)
+.. image:: https://readthedocs.org/projects/chatoliverjio-docs/badge/?version=latest
+    :target: https://chatoliverjio-docs.readthedocs.io/en/latest/?badge=latest
+    :alt: Documentation Status
 
 Template for the Read the Docs tutorial
 =======================================
