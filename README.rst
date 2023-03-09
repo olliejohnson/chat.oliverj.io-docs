@@ -1,3 +1,5 @@
+[![Documentation Status](https://readthedocs.org/projects/chatoliverjio-docs/badge/?version=latest)](https://chatoliverjio-docs.readthedocs.io/en/latest/?badge=latest)
+
 Template for the Read the Docs tutorial
 =======================================
 
